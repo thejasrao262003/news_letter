@@ -1,0 +1,12 @@
+langgraph
+langchain-google-genai
+boto3
+python-dotenv
+requests
+feedparser
+jinja2
+python-dateutil
+pytest
+flake8
+tavily-python
+pydantic
